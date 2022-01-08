@@ -1,0 +1,128 @@
+.header {
+    background-color: darkgray;
+    color: #F9FAF8;
+    padding: 50px 110px;
+}
+
+.header1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header2 {
+    margin-top: 50px;
+}
+
+button {
+    background-color: #3882F6;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    inline-size: 115px;
+    border-color: #3882F6;
+    margin: 30px 75px;
+    padding: 10px 20px;    
+}
+
+.picture2 {
+    background-color: lightslategray;
+    padding: 150px;
+    margin: 70px;
+    display: flex;
+    inline-size: 25%;
+    justify-content: center;
+}
+
+.align {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    gap: 45px;
+}
+
+p {
+    display: inline;
+    vertical-align: middle;
+    
+}
+
+.logo {
+    height: 115px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.icon {
+    height: 75px;
+    border-radius: 5%;
+    display: flex;
+    justify-content: center;
+}
+
+.indent {
+    margin-left: 15px;
+}
+
+.content1 {
+    display: flex;
+    justify-content: center;
+}
+
+.img-with-text {
+    text-align: center;
+    width: 150px;
+    padding: 50px;
+    margin: 15px;
+}
+
+.img-with-text img {
+    border-style: solid;
+    width: 50px;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.content2 {
+    background-color: lightgrey;
+    color: grey;
+    padding: 50px 20%;
+}
+
+.content2 p {
+    color: black;
+    font-weight: bold;
+    padding-right: 50px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.calltoaction {
+    background-color: #4da6ff;
+    color: white;
+    display: flex;
+    padding: 20px 75px;
+    margin: 70px 20%;
+    justify-content: center;   
+}
+
+.break {
+    justify-content: left;
+}
+
+.signup {
+    border-color: white;
+    margin-left: 50px;
+}
+
+.footer {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    display: flex;
+    flex: 1;
+    justify-content: center;
+}
